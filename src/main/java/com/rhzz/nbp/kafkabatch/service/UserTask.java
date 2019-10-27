@@ -43,6 +43,7 @@ public class UserTask {
             //kk22222
             //fff
             //ggg
+            //kafka demo 222 modify 
         }
     //    MUlTI_SERVICE.addUser(user);
     }
