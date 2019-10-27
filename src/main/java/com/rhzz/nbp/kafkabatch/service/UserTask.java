@@ -45,7 +45,9 @@ public class UserTask {
             //ggg
             //kafka demo 222 modify
             //kafka modify by master branch
-            
+            //kafka modify by master branch   not commit
+            //kafka branch test 3333
+
         }
     //    MUlTI_SERVICE.addUser(user);
     }
