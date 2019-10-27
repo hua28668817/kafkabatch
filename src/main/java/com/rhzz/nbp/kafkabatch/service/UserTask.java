@@ -39,6 +39,8 @@ public class UserTask {
 
         for (int i = 0; i < 700; i++) {
             KAFKA_SENDER.sendMessage(topics.get(0), jsonUser);
+            //jjjjjj11111
+            //kk22222
         }
     //    MUlTI_SERVICE.addUser(user);
     }
